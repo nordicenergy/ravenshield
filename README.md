@@ -16,7 +16,7 @@
 ___
 
 
-### Nordic Energy´s RavenShield Chat
+### Nordic Energy´s RavenShield
 
 The Nordic Energy´s RavenShield is a radio network for off-grid messaging and cryptocurrency transactions without access to the internet. The main objective is a long range network for everyone, everywhere. For this reason we are working not only in a protocol, but also the firmware for affordable devices like the Turpial, Harpia, or their DIY equivalents. We adhere to open source ethos at every step and aim to make this tool as decentralized as possible so users can transmit with freedom.
 
